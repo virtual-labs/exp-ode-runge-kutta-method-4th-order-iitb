@@ -1,0 +1,20 @@
+[
+   {
+      "question": "$$ x_1 = 0,\\ \\ y_1 = 0  $$ $$ \\frac{dx}{dy} = f(x,y) = \\frac{x_2}{y^2+1} $$ $$ Find\\ y(1.5) $$ $$ Given,\\ \\ n = 2 $$",
+      "qid": 1,
+      "option_a": "0.132",
+      "option_b": "1.925",
+      "option_c": "1.978",
+      "option_d": "0.892",
+      "correct_option": "d"
+   },
+   {
+      "question": "$$ x_1 = 0,\\ \\ y_1 = 0  $$ $$ \\frac{dx}{dy} = f(x,y) = -2x^3+12x^2-20x+8.5 $$ $$ Find\\ y(1.5) $$ $$ Given,\\ \\ n = 3 $$",
+      "qid": 2,
+      "option_a": "1.79",
+      "option_b": "0.34",
+      "option_c": "1.21",
+      "option_d": "2.89",
+      "correct_option": "c"
+   }
+]

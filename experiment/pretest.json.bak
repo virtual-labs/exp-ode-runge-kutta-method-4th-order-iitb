@@ -1,0 +1,20 @@
+[
+   {
+      "question": "Runge Kutta method 4th order is used to solve",
+      "qid": 1,
+      "option_a": "boundary value differential equation",
+      "option_b": "initial value differential equation",
+      "option_c": "",
+      "option_d": "",
+      "correct_option": "b"
+   },
+   {
+      "question": "The formulation used for Runge Kutta method 4th order is",
+      "qid": 2,
+      "option_a": "$$ y_2 = y_1 + hf(x_1, y_1) $$",
+      "option_b": "$$ y_2 = hf(x_1, y_1) $$ ",
+      "option_c": "$$ \\begin{aligned} s_1 &= hf(x_1, y_1) \\\\ s_2 &= hf(x_1+h, y_1 + s_1) \\\\ y_2 &= y_1 + \\frac{(s_1 + s_2)}{2} \\end{aligned} $$",
+      "option_d": "$$\\begin{aligned} s_1 &= hf(x_1, y_1) \\\\ s_2 &= hf\\left(x_1 + \\frac{h}{2} , y_1 + \\frac{s_1}{2}\\right) \\\\ s_3 &= hf\\left(x_1 + \\frac{h}{2}, y_1 + \\frac{s_2}{2}\\right) \\\\ s_4 &= hf(x_1+h, y_1 + s_3) \\\\ y_2 &= y_1 + \\frac{(s_1 + 2s_2 + 2s_3 + s_4)}{6} \\end{aligned} $$",
+      "correct_option": "d"
+   }
+]
